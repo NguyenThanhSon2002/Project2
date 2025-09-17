@@ -1,1 +1,3 @@
 https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/a - thẻ trong HTML
+https://www.freeformatter.com/html-entities.html#google_vignette - Ký tự đặc biệt trong HTML
+https://codebeautify.org/html-escape-unescape - Viết lại ký tự đặc biệt trong HTML
